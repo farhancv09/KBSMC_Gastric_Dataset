@@ -12,15 +12,15 @@ Trinh Thi Le Vuong, Jin Tae Kwak, Kyungeun Kim, Boram Song ([Link](https://paper
 Whole dataset of 96 WSI are divided into three folders named as Train, Valid and Test. 
 Dataset is publicaly available at [here](https://drive.google.com/drive/folders/1lNhdk392O5tE1Bd6omkqrSBlO6BpyIKF)
 
-# Details about Dataset and Naming Convention
+
 
 # Details about Dataset and Naming Convention
 | ** Type**  | **Train**    | **Valid**    | **Test**    | **Naming Convention/ Label** |               
 |------------|--------------|--------------|-------------|------------------------------- 
-|    Benign  |     150063   |    29790     |     26221   |        1,2                   |
-|     WD     |     14162    |    8809      |     7197    |         3                    |
-|     MD     |     20808    |    9510      |     9892    |         4                    |
-|     PD     |     27597    |    9464      |     4386    |         5                    |
+|    Benign  |     150063   |    29790     |     26221   |              1,2             |
+|     WD     |     14162    |    8809      |     7197    |              3               |
+|     MD     |     20808    |    9510      |     9892    |              4               |
+|     PD     |     27597    |    9464      |     4386    |              5               |
 
 **Naming Convention:**
 **patch_number_class_Label.jpg**. Example: patch_1995_class_2.jpg, here **2** Represent the label of image.
