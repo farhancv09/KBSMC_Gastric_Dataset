@@ -1,4 +1,4 @@
-# KSMH_Gastric_Dataset
+# KBSMC_Gastric_Dataset
 
 This dataset has been introduced in the paper "Multi-Cell Type and Multi-Level Graph Aggregation Network for Cancer Grading in Pathology Images" by Syed Farhan Abbas,
 Trinh Thi Le Vuong, Jin Tae Kwak, Kyungeun Kim, Boram Song ([Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4232906)). 
